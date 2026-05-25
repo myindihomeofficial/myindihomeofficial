@@ -1,16 +1,15 @@
-## Hi there 👋
+# MyIndiHomeOfficial
 
-<!--
-**myindihomeofficial/myindihomeofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official IndiHome Partnership & Internet Installation Services.
 
-Here are some ideas to get you started:
+## Services
+- Pasang WiFi IndiHome
+- Internet Fiber Optic
+- WiFi Rumah
+- Upgrade Paket IndiHome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website
+https://myindihomeofficial.com
+
+## About
+Helping customers get fast and reliable internet installation services across Indonesia.
